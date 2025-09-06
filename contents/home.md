@@ -11,4 +11,3 @@ B.A. in Russian Language and Literature, School of Foreign Studies, Nanjing Univ
 
 #### Research Interests
 Cross-Cultural Communication, Media Discourse Analysis, International Economic Policy Reporting, Digital Communication Strategies, Russian-Chinese Financial Media, NLP for Multilingual Content, Public Diplomacy, Corporate Financial Communication, Crisis Communication in Global Markets, Social Media and Economic Perception shaping.
-

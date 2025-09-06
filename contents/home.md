@@ -7,7 +7,7 @@ She is an undergraduate student majoring in Russian Studies at the School of For
 Email: 1320543551@qq.com
 
 #### Education
-B.A. in Russian Language and Literature, School of Foreign Studies, Nanjing University, 2023—Present (Expected)
+B.A. in Russian Language and Literature, School of Foreign Studies, Nanjing University, 2023—Present
 
 #### Research Interests
 Cross-Cultural Communication, Media Discourse Analysis, International Economic Policy Reporting, Digital Communication Strategies, Russian-Chinese Financial Media, NLP for Multilingual Content, Public Diplomacy, Corporate Financial Communication, Crisis Communication in Global Markets, Social Media and Economic Perception shaping.

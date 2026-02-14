@@ -1,15 +1,15 @@
 @import "./styles.css";
 
 :root{
-    --h-title-color:#3948d2;
-    --primary-color: #3948d2;
-    --secondary-color: #4a57e0;
+    --h-title-color:#ff69b4;
+    --primary-color: #ff69b4;
+    --secondary-color: #ff87b9;
     --text-primary: #1a202c;
     --text-secondary: #718096;
     --bg-primary: #ffffff;
-    --bg-card: #f7fafc;
-    --border-color: #e2e8f0;
-    --bs-blue: #0d6efd;
+    --bg-card: #fef7fb;
+    --border-color: #f8d7e6;
+    --bs-blue: #ff69b4;
 }
 
 html {
@@ -129,7 +129,7 @@ section .main-body{
 }
 
 #avatar img:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 12px rgba(255,105,180,0.15);
     transform: translateY(-2px);
 }
 
@@ -188,15 +188,15 @@ section .main-body{
 }
 
 :root.dark {
-    --h-title-color: #63b3ed;
-    --primary-color: #63b3ed;
-    --secondary-color: #90cdf4;
+    --h-title-color: #ff9ac1;
+    --primary-color: #ff9ac1;
+    --secondary-color: #ffb4d1;
     --text-primary: #f7fafc;
     --text-secondary: #e2e8f0;
     --bg-primary: #1a202c;
-    --bg-card: #2d3748;
-    --border-color: #4a5568;
-    --bs-blue: #3b82f6;
+    --bg-card: #2d232b;
+    --border-color: #4a3842;
+    --bs-blue: #ff9ac1;
 }
 
 @media screen and (max-width: 991px) {
@@ -235,7 +235,7 @@ section .main-body{
 }
 
 .card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 12px rgba(255,105,180,0.1);
     transform: translateY(-2px);
 }
 

@@ -81,12 +81,14 @@ section .main-body{
     color: var(--text-secondary);
 }
 
+/* 核心修改：浅粉色系渐变（替代原浅灰渐变） */
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    background: linear-gradient(45deg, #fff5f8, #ffffff) !important;
 }
 
+/* 核心修改：深一点的粉色系渐变（替代原中灰渐变） */
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: linear-gradient(45deg, #ffeef4, #fff5f8) !important;
 }
 
 .on-top {
